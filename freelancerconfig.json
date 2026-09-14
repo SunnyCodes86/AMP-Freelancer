@@ -1,14 +1,1 @@
-[
-  {
-    "DisplayName": "Custom Command Line Arguments",
-    "Category": "Freelancer",
-    "Subcategory": "Server",
-    "Description": "Additional arguments passed to FLServer.exe.",
-    "Keywords": "custom,command,line,args",
-    "FieldName": "CustomArgs",
-    "InputType": "text",
-    "ParamFieldName": "CustomArgs",
-    "DefaultValue": "",
-    "EnumValues": {}
-  }
-]
+[]
